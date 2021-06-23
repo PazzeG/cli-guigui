@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/PazzeG/cli-guigui#readme",
   "author": "Guillaume Pazze (guillaumepazze.com)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^8.1.1"
   }
