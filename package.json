@@ -1,22 +1,22 @@
 {
-  "name": "cli-guigui",
+  "name": "cligui",
   "version": "1.0.0",
-  "description": "",
+  "description": "templating",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PazzeG/cli-guigui.git"
   },
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/PazzeG/cli-guigui/issues"
   },
   "homepage": "https://github.com/PazzeG/cli-guigui#readme",
+  "author": "Guillaume Pazze (guillaumepazze.com)",
+  "license": "ISC",
   "dependencies": {
     "inquirer": "^8.1.1"
   }

@@ -1,5 +1,9 @@
+#!/usr/bin/env node
 const inquirer = require('inquirer')
 const runCmd = require('./src/runCmd');
+exports.printMsg = function() {
+    console.log("This is a message from the demo package");
+  }
 
 inquirer.prompt([
     {
